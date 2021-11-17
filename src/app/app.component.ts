@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular13ImageUploadPreview';
+  title = 'Angular 13 Image Upload with Preview';
 }
