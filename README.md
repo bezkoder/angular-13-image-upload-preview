@@ -9,7 +9,7 @@ Show upload status for each file:
 ![angular-13-image-upload-preview-example-upload-status](angular-13-image-upload-preview-example-upload-status.png)
 
 For more detail, please visit:
-> [Angular 13 (Multiple) Image upload with Preview example](https://bezkoder.com/angular-13-image-upload-preview/)
+> [Angular 13 (Multiple) Image upload with Preview example](https://www.bezkoder.com/angular-13-image-upload-preview/)
 
 Rest APIs server for this Angular Client:
 > [Node Express File Upload Rest API example](https://www.bezkoder.com/node-js-express-file-upload/)
@@ -27,22 +27,24 @@ More practice:
 
 > [Angular CRUD Application example with Web API](https://www.bezkoder.com/angular-13-crud-example/)
 
-> [Angular JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-12-jwt-auth/)
+> [Angular Pagination example | ngx-pagination](https://www.bezkoder.com/angular-13-pagination-ngx/)
 
-> [Angular Pagination example with ngx-pagination](https://www.bezkoder.com/angular-12-pagination-ngx/)
+> [Angular JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-13-jwt-auth/)
 
-Fullstack with Node Express:
-> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-12-node-js-express-mysql/)
+Fullstack with Node:
 
-> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-12-node-js-express-postgresql/)
+> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-13-node-js-express-mysql/)
 
-> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/angular-12-mongodb-node-js-express/)
+> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-13-node-js-express-postgresql/)
 
-> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-12-node-js-file-upload/)
+> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-13/)
 
-> [Angular + Node Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-12-jwt-auth/)
+> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-13-node-express-file-upload/)
+
+> [Angular + Node Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-13-jwt-auth/)
 
 Fullstack with Spring Boot:
+
 > [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-13-crud/)
 
 > [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-13-mysql/)
@@ -51,12 +53,12 @@ Fullstack with Spring Boot:
 
 > [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
 
-> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-12-spring-boot-file-upload/)
+> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-13-spring-boot-file-upload/)
 
-> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-12-spring-boot-jwt-auth/)
+> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-13-spring-boot-jwt-auth/)
 
 Fullstack with Django:
-> [Angular + Django example](https://www.bezkoder.com/django-angular-12-crud-rest-framework/)
+> [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud/)
 
 > [Angular + Django + MySQL](https://www.bezkoder.com/django-angular-mysql/)
 
